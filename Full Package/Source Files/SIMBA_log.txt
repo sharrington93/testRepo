@@ -1,0 +1,185 @@
+2014-03-25 16:55:42,911 - INFO - STARTING automation.py
+2014-03-25 17:17:38,901 - INFO - STARTING automation.py
+2014-03-25 17:21:10,983 - INFO - STARTING FUNCTIONS FileToParams
+2014-03-25 17:21:10,983 - DEBUG - Options file location passed: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Deployment Package\test_in\Project Template\OPTIONS.csv
+2014-03-25 17:21:10,990 - INFO - Current file to search for data: TestTemplate.csv
+2014-03-25 17:21:10,990 - INFO - Data extraction from TestTemplate.csv complete
+2014-03-25 17:21:37,174 - INFO - STARTING FUNCTIONS FileToParams
+2014-03-25 17:21:37,174 - DEBUG - Options file location passed: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Deployment Package\test_in\Project Template\TestTemplate.csv
+2014-03-25 17:21:40,795 - INFO - STARTING FUNCTIONS FileToParams
+2014-03-25 17:21:40,795 - DEBUG - Options file location passed: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Deployment Package\test_in\Project Template\OPTIONS.csv
+2014-03-25 17:21:40,802 - INFO - Current file to search for data: TestTemplate.csv
+2014-03-25 17:21:40,802 - INFO - Data extraction from TestTemplate.csv complete
+2014-03-25 17:29:24,203 - INFO - STARTING automation.py
+2014-03-25 17:30:20,401 - INFO - STARTING automation.py
+2014-03-25 17:30:23,943 - INFO - STARTING FUNCTIONS FileToParams
+2014-03-25 17:30:23,944 - DEBUG - Options file location passed: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Full Package\test_in\Project Test 1\OPTIONS.csv
+2014-03-25 17:30:23,946 - INFO - Current file to search for data: IOM_check.csv
+2014-03-25 17:30:23,947 - INFO - Data extraction from IOM_check.csv complete
+2014-03-25 17:30:23,947 - INFO - Files have been converted to dictionaries
+2014-03-25 17:31:07,707 - DEBUG - Entered path: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Full Package\test_in\Project Test 1\OPTIONS.csv
+2014-03-25 17:31:07,707 - INFO - STARTING FUNCTIONS FileToParams
+2014-03-25 17:31:07,707 - DEBUG - Options file location passed: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Full Package\test_in\Project Test 1\OPTIONS.csv
+2014-03-25 17:31:07,709 - INFO - Current file to search for data: IOM_check.csv
+2014-03-25 17:31:07,709 - INFO - Data extraction from IOM_check.csv complete
+2014-03-25 17:31:07,710 - INFO - Files have been converted to dictionaries
+2014-03-25 17:31:07,727 - INFO - STARTING Simulation.py
+2014-03-25 17:31:07,727 - INFO - Checking to make sure file IOM_check.csv has needed parameters...
+2014-03-25 17:31:07,727 - INFO - Step found
+2014-03-25 17:31:07,727 - INFO - total_time found
+2014-03-25 17:31:07,727 - INFO - wheel_radius found
+2014-03-25 17:31:07,727 - INFO - gearing found
+2014-03-25 17:31:07,727 - INFO - rider_mass found
+2014-03-25 17:31:07,729 - INFO - bike_mass found
+2014-03-25 17:31:07,729 - INFO - gravity found
+2014-03-25 17:31:07,729 - INFO - air_resistance found
+2014-03-25 17:31:07,729 - INFO - air_density found
+2014-03-25 17:31:07,729 - INFO - frontal_area found
+2014-03-25 17:31:07,729 - INFO - rolling_resistance found
+2014-03-25 17:31:07,729 - INFO - top_torque found
+2014-03-25 17:31:07,729 - INFO - top_rpm found
+2014-03-25 17:31:07,729 - INFO - motor_top_power found
+2014-03-25 17:31:07,729 - INFO - chain_efficiency found
+2014-03-25 17:31:07,729 - INFO - battery_efficiency found
+2014-03-25 17:31:07,729 - INFO - motor_torque_constant found
+2014-03-25 17:31:07,729 - INFO - motor_rpm_constant found
+2014-03-25 17:31:07,729 - INFO - motor_thermal_conductivity
+2014-03-25 17:31:07,730 - INFO - motor_heat_capacity
+2014-03-25 17:31:07,730 - INFO - coolant_temp
+2014-03-25 17:31:07,730 - INFO - max_motor_temp
+2014-03-25 17:31:07,730 - INFO - series_cells found
+2014-03-25 17:31:07,730 - INFO - max_amphour
+2014-03-25 17:31:07,730 - INFO - batt_max_current
+2014-03-25 17:31:07,730 - INFO - max_distance_travel found
+2014-03-25 17:31:07,730 - INFO - dist_to_speed_lookup found
+2014-03-25 17:31:07,730 - INFO - dist_to_alt_lookup found
+2014-03-25 17:31:07,730 - INFO - motor_controller_eff_lookup found
+2014-03-25 17:31:07,730 - INFO - motor_eff_lookup found
+2014-03-25 17:31:07,730 - INFO - soc_to_voltage_lookup found
+2014-03-25 17:31:07,730 - INFO - throttlemap_lookup found
+2014-03-25 17:31:08,309 - INFO - Lookup Files\IOM_data.csv loaded
+2014-03-25 17:31:08,395 - INFO - Lookup Files\aee.csv loaded
+2014-03-25 17:31:08,414 - INFO - Lookup Files\disttoalt.csv loaded
+2014-03-25 17:31:08,417 - INFO - Lookup Files\throttle.csv loaded
+2014-03-25 17:31:08,421 - INFO - Lookup Files\Tritium_ws200_eff.csv loaded
+2014-03-25 17:31:08,454 - INFO - Lookup Files\Emrax_eff.csv loaded
+2014-03-25 17:31:13,092 - INFO - Converted IOM_check.csv to a dictionary successfully
+2014-03-25 17:31:13,092 - INFO - ENDING Simulation.py
+2014-03-25 17:31:13,095 - DEBUG - Entered out path: C:\Users\Sean\Desktop\
+2014-03-25 17:31:13,095 - INFO - STARTING FUNCTION OutputFile
+2014-03-25 17:31:13,095 - INFO - Converting dictionary IOM_check.csv to file
+2014-03-25 17:31:13,095 - DEBUG - File will be saved at C:\Users\Sean\Desktop\\IOM_check.csv
+2014-03-25 17:31:13,164 - INFO - Data converted and saved to C:\Users\Sean\Desktop\\IOM_check.csv
+2014-03-25 17:31:13,164 - INFO - Data extraction from <type 'file'> complete
+2014-03-25 17:31:13,165 - INFO - C:\Users\Sean\Desktop\Buckeye Current\Simulation\Full Package\test_in\Project Test 1\OPTIONS.csv NOT successfully edited
+2014-03-25 17:31:14,109 - CRITICAL - Could not save project at the end of the simulation
+2014-03-25 18:10:08,059 - INFO - STARTING automation.py
+2014-03-25 18:25:02,980 - INFO - STARTING automation.py
+2014-04-24 00:17:54,329 - INFO - STARTING automation.py
+2014-04-24 00:18:16,948 - INFO - STARTING FUNCTIONS FileToParams
+2014-04-24 00:18:16,948 - DEBUG - Options file location passed: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Deployment Package\test_in\Project Template\OPTIONS.csv
+2014-04-24 00:18:16,953 - INFO - Current file to search for data: TestTemplate.csv
+2014-04-24 00:18:16,957 - INFO - Data extraction from TestTemplate.csv complete
+2014-04-24 00:18:16,957 - INFO - Current file to search for data: IOM_check.csv
+2014-04-24 00:18:16,960 - INFO - Data extraction from IOM_check.csv complete
+2014-04-24 00:18:16,960 - INFO - Files have been converted to dictionaries
+2014-04-24 00:18:29,403 - DEBUG - Entered path: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Deployment Package\test_in\Project Template\OPTIONS.csv
+2014-04-24 00:18:29,403 - INFO - STARTING FUNCTIONS FileToParams
+2014-04-24 00:18:29,403 - DEBUG - Options file location passed: C:\Users\Sean\Desktop\Buckeye Current\Simulation\Deployment Package\test_in\Project Template\OPTIONS.csv
+2014-04-24 00:18:29,404 - INFO - Current file to search for data: TestTemplate.csv
+2014-04-24 00:18:29,404 - INFO - Data extraction from TestTemplate.csv complete
+2014-04-24 00:18:29,404 - INFO - Current file to search for data: IOM_check.csv
+2014-04-24 00:18:29,404 - INFO - Data extraction from IOM_check.csv complete
+2014-04-24 00:18:29,404 - INFO - Files have been converted to dictionaries
+2014-04-24 00:18:29,421 - INFO - STARTING Simulation.py
+2014-04-24 00:18:29,423 - INFO - Checking to make sure file TestTemplateOutput.csv has needed parameters...
+2014-04-24 00:18:29,423 - INFO - Step found
+2014-04-24 00:18:29,423 - INFO - total_time found
+2014-04-24 00:18:29,423 - INFO - wheel_radius found
+2014-04-24 00:18:29,423 - INFO - gearing found
+2014-04-24 00:18:29,423 - INFO - rider_mass found
+2014-04-24 00:18:29,423 - INFO - bike_mass found
+2014-04-24 00:18:29,423 - INFO - gravity found
+2014-04-24 00:18:29,423 - INFO - air_resistance found
+2014-04-24 00:18:29,423 - INFO - air_density found
+2014-04-24 00:18:29,423 - INFO - frontal_area found
+2014-04-24 00:18:29,424 - INFO - rolling_resistance found
+2014-04-24 00:18:29,424 - INFO - top_torque found
+2014-04-24 00:18:29,424 - INFO - top_rpm found
+2014-04-24 00:18:29,424 - INFO - motor_top_power found
+2014-04-24 00:18:29,424 - INFO - chain_efficiency found
+2014-04-24 00:18:29,424 - INFO - battery_efficiency found
+2014-04-24 00:18:29,424 - INFO - motor_torque_constant found
+2014-04-24 00:18:29,424 - INFO - motor_rpm_constant found
+2014-04-24 00:18:29,424 - INFO - motor_thermal_conductivity
+2014-04-24 00:18:29,424 - INFO - motor_heat_capacity
+2014-04-24 00:18:29,424 - INFO - coolant_temp
+2014-04-24 00:18:29,424 - INFO - max_motor_temp
+2014-04-24 00:18:29,424 - INFO - series_cells found
+2014-04-24 00:18:29,424 - INFO - max_amphour
+2014-04-24 00:18:29,424 - INFO - batt_max_current
+2014-04-24 00:18:29,424 - INFO - max_distance_travel found
+2014-04-24 00:18:29,424 - INFO - dist_to_speed_lookup found
+2014-04-24 00:18:29,424 - INFO - dist_to_alt_lookup found
+2014-04-24 00:18:29,424 - INFO - motor_controller_eff_lookup found
+2014-04-24 00:18:29,424 - INFO - motor_eff_lookup found
+2014-04-24 00:18:29,424 - INFO - soc_to_voltage_lookup found
+2014-04-24 00:18:29,424 - INFO - throttlemap_lookup found
+2014-04-24 00:18:29,645 - INFO - Lookup Files\disttospeed.csv loaded
+2014-04-24 00:18:29,710 - INFO - Lookup Files\aee.csv loaded
+2014-04-24 00:18:29,734 - INFO - Lookup Files\disttoalt.csv loaded
+2014-04-24 00:18:29,740 - INFO - Lookup Files\throttle.csv loaded
+2014-04-24 00:18:29,746 - INFO - Lookup Files\Tritium_ws200_eff.csv loaded
+2014-04-24 00:18:29,780 - INFO - Lookup Files\Emrax_eff.csv loaded
+2014-04-24 00:18:36,502 - INFO - Converted TestTemplateOutput.csv to a dictionary successfully
+2014-04-24 00:18:36,502 - INFO - Checking to make sure file IOM_check_output.csv has needed parameters...
+2014-04-24 00:18:36,502 - INFO - Step found
+2014-04-24 00:18:36,502 - INFO - total_time found
+2014-04-24 00:18:36,502 - INFO - wheel_radius found
+2014-04-24 00:18:36,502 - INFO - gearing found
+2014-04-24 00:18:36,502 - INFO - rider_mass found
+2014-04-24 00:18:36,502 - INFO - bike_mass found
+2014-04-24 00:18:36,502 - INFO - gravity found
+2014-04-24 00:18:36,503 - INFO - air_resistance found
+2014-04-24 00:18:36,503 - INFO - air_density found
+2014-04-24 00:18:36,503 - INFO - frontal_area found
+2014-04-24 00:18:36,503 - INFO - rolling_resistance found
+2014-04-24 00:18:36,503 - INFO - top_torque found
+2014-04-24 00:18:36,503 - INFO - top_rpm found
+2014-04-24 00:18:36,503 - INFO - motor_top_power found
+2014-04-24 00:18:36,503 - INFO - chain_efficiency found
+2014-04-24 00:18:36,503 - INFO - battery_efficiency found
+2014-04-24 00:18:36,503 - INFO - motor_torque_constant found
+2014-04-24 00:18:36,503 - INFO - motor_rpm_constant found
+2014-04-24 00:18:36,503 - INFO - motor_thermal_conductivity
+2014-04-24 00:18:36,503 - INFO - motor_heat_capacity
+2014-04-24 00:18:36,503 - INFO - coolant_temp
+2014-04-24 00:18:36,503 - INFO - max_motor_temp
+2014-04-24 00:18:36,503 - INFO - series_cells found
+2014-04-24 00:18:36,503 - INFO - max_amphour
+2014-04-24 00:18:36,503 - INFO - batt_max_current
+2014-04-24 00:18:36,503 - INFO - max_distance_travel found
+2014-04-24 00:18:36,503 - INFO - dist_to_speed_lookup found
+2014-04-24 00:18:36,503 - INFO - dist_to_alt_lookup found
+2014-04-24 00:18:36,503 - INFO - motor_controller_eff_lookup found
+2014-04-24 00:18:36,503 - INFO - motor_eff_lookup found
+2014-04-24 00:18:36,503 - INFO - soc_to_voltage_lookup found
+2014-04-24 00:18:36,503 - INFO - throttlemap_lookup found
+2014-04-24 00:18:37,039 - INFO - Lookup Files\IOM_data.csv loaded
+2014-04-24 00:18:37,122 - INFO - Lookup Files\aee.csv loaded
+2014-04-24 00:18:37,141 - INFO - Lookup Files\disttoalt.csv loaded
+2014-04-24 00:18:37,145 - INFO - Lookup Files\throttle.csv loaded
+2014-04-24 00:18:37,150 - INFO - Lookup Files\Tritium_ws200_eff.csv loaded
+2014-04-24 00:18:37,181 - INFO - Lookup Files\Emrax_eff.csv loaded
+2014-04-24 00:18:41,026 - INFO - Converted IOM_check_output.csv to a dictionary successfully
+2014-04-24 00:18:41,026 - INFO - ENDING Simulation.py
+2014-04-24 00:18:41,029 - DEBUG - Entered out path: C:\Users\Sean\Desktop
+2014-04-24 00:18:41,029 - INFO - STARTING FUNCTION OutputFile
+2014-04-24 00:18:41,030 - INFO - Converting dictionary TestTemplateOutput.csv to file
+2014-04-24 00:18:41,030 - DEBUG - File will be saved at C:\Users\Sean\Desktop\TestTemplateOutput.csv
+2014-04-24 00:18:41,122 - INFO - Data converted and saved to C:\Users\Sean\Desktop\TestTemplateOutput.csv
+2014-04-24 00:18:41,122 - INFO - Converting dictionary IOM_check_output.csv to file
+2014-04-24 00:18:41,122 - DEBUG - File will be saved at C:\Users\Sean\Desktop\IOM_check_output.csv
+2014-04-24 00:18:41,239 - INFO - Data converted and saved to C:\Users\Sean\Desktop\IOM_check_output.csv
+2014-04-24 00:18:41,240 - INFO - Data extraction from <type 'file'> complete
+2014-04-24 00:18:41,240 - INFO - C:\Users\Sean\Desktop\Buckeye Current\Simulation\Deployment Package\test_in\Project Template\OPTIONS.csv successfully edited
